@@ -1,6 +1,8 @@
 this is my first test for git!
-the following code just for fun!
+the following code just for test!
 
 ######################################
 good good study
 ######################################
+
+this line is new adding!
